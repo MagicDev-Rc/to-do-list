@@ -14,3 +14,29 @@ El programa ofrece las siguientes opciones:
 ## 🛠️ Estructura del Código
 
 El programa está construido en un bucle principal `while` que se ejecuta hasta que el usuario elige la opción de salir (`0`). Se utiliza una función `menu_opciones()` para mostrar las opciones disponibles y una lista global `lista_tareas` para almacenar las tareas. El manejo de errores básicos está implementado con un bloque `try-except` para capturar entradas no numéricas.
+
+## 🚀 Cómo Usar el Programa
+
+### Con visual studio code
+
+1. Descargar el archivo
+2. Abrirlo con algun editor de codigo (Ejemplo: visual studio code)
+   <img width="722" height="630" alt="image" src="https://github.com/user-attachments/assets/49bc45ae-a834-4c91-82b8-94dcd72f487d" />
+
+4. Ejecutar el programa
+   <img width="1701" height="1034" alt="image" src="https://github.com/user-attachments/assets/57a92cb4-0e48-4aa5-95c7-401747df5748" />
+
+### Otra forma: Ejecutar desde una terminal
+
+1. Descargar el archivo
+2. guardarlo en una carpeta en especifico
+3. dirigirse a la carpeta donde se encuentra el archivo y abrir terminal
+<img width="749" height="667" alt="image" src="https://github.com/user-attachments/assets/9b2c1bac-4ec9-4097-af1a-756fd106bc2d" />
+
+5. en la terminal, escribir el comando <python nombre_del_archivo.py>
+<img width="1356" height="417" alt="image" src="https://github.com/user-attachments/assets/0e02d995-a962-4fa3-b7de-1b54bfe1faff" />
+
+6. ahora ya puede usar el programa eligiendo alguna opcion del menu de opciones.
+<img width="1110" height="379" alt="image" src="https://github.com/user-attachments/assets/c99e7c6b-b0b2-4de3-95f4-435b098c0f43" />
+
+   
