@@ -17,6 +17,8 @@ El programa está construido en un bucle principal `while` que se ejecuta hasta 
 
 ## 🚀 Cómo Usar el Programa
 
+**Requisito:** Tener cualquier versión de Python 3 instalado en tu sistema. Puedes descargarlo desde https://www.python.org/downloads/.
+
 ### Con visual studio code
 
 1. Descargar el archivo `lista_tareas.py`
