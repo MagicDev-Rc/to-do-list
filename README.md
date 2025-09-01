@@ -19,7 +19,7 @@ El programa está construido en un bucle principal `while` que se ejecuta hasta 
 
 ### Con visual studio code
 
-1. Descargar el archivo
+1. Descargar el archivo `lista_tareas.py`
 2. Abrirlo con algun editor de codigo (Ejemplo: visual studio code)
    <img width="722" height="630" alt="image" src="https://github.com/user-attachments/assets/49bc45ae-a834-4c91-82b8-94dcd72f487d" />
 
@@ -28,7 +28,7 @@ El programa está construido en un bucle principal `while` que se ejecuta hasta 
 
 ### Otra forma: Ejecutar desde una terminal
 
-1. Descargar el archivo
+1. Descargar el archivo `lista_tareas.py`
 2. guardarlo en una carpeta en especifico
 3. dirigirse a la carpeta donde se encuentra el archivo y abrir terminal
 <img width="749" height="667" alt="image" src="https://github.com/user-attachments/assets/9b2c1bac-4ec9-4097-af1a-756fd106bc2d" />
