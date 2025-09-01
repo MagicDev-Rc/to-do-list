@@ -26,6 +26,8 @@ El programa está construido en un bucle principal `while` que se ejecuta hasta 
 4. Ejecutar el programa
    <img width="1701" height="1034" alt="image" src="https://github.com/user-attachments/assets/57a92cb4-0e48-4aa5-95c7-401747df5748" />
 
+5. Seguir las Instrucciones: El menú del programa se mostrará en la consola.
+
 ### Otra forma: Ejecutar desde una terminal
 
 1. Descargar el archivo `lista_tareas.py`
@@ -36,7 +38,7 @@ El programa está construido en un bucle principal `while` que se ejecuta hasta 
 5. en la terminal, escribir el comando <python nombre_del_archivo.py>
 <img width="1356" height="417" alt="image" src="https://github.com/user-attachments/assets/0e02d995-a962-4fa3-b7de-1b54bfe1faff" />
 
-6. ahora ya puede usar el programa eligiendo alguna opcion del menu de opciones.
+6. Seguir las Instrucciones: El menú del programa se mostrará en la consola
 <img width="1110" height="379" alt="image" src="https://github.com/user-attachments/assets/c99e7c6b-b0b2-4de3-95f4-435b098c0f43" />
 
    
